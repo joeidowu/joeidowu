@@ -4,8 +4,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Honeypot Home Lab](https://github.com/joeidowu/Honeypot-Home-Lab/tree/main)
-  - [Active Directory Home Lab](https://www.youtube.com/watch?v=N-L9hklSlNk)
-
+  
 <h2>📄 Certifications</h2>
 
 - [Comptia Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=MZ8PTQ49JRK6FPSN)
