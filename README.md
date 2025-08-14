@@ -4,7 +4,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Honeypot Home Lab](https://github.com/joeidowu/Honeypot-Home-Lab/tree/main)
-  
+  - [Cyber Terrorism Presentation](https://github.com/joeidowu/Cyber-Terrorism-Presentation)
+    
 <h2>📄 Certifications</h2>
 
 - [Comptia Security+](https://www.certmetrics.com/comptia/public/verification.aspx?code=MZ8PTQ49JRK6FPSN)
