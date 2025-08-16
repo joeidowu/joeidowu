@@ -8,6 +8,7 @@
 
 <h2>💻 Other Projects:</h2>
 
+  - [Database Enviornment Project](https://github.com/joeidowu/Database-Environment-Project)
 
 <h2>📄 Certifications</h2>
 
