@@ -3,7 +3,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Honeypot Home Lab](https://github.com/joeidowu/Honeypot-Home-Lab/tree/main)
+  - [Phishing Email Analysis Lab](https://github.com/joeidowu/Phishing-Email-Threat-Analysis-Project)
+  - [Cloud Security Honeypot Lab](https://github.com/joeidowu/Honeypot-Home-Lab/tree/main)
   - [Cyber Terrorism Presentation](https://github.com/joeidowu/Cyber-Terrorism-Presentation)
 
 <h2>💻 Other Projects:</h2>
