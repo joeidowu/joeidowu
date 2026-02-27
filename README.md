@@ -3,9 +3,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Phishing Email Threat Analysis Lab](https://github.com/joeidowu/Phishing-Email-Threat-Analysis-Project)
+  - [Wireshark Live Network Traffic Analysis](https://github.com/joeidowu/Wireshark-Live-Network-Traffic-Analysis)
   - [Cloud Security Honeypot Lab](https://github.com/joeidowu/Honeypot-Home-Lab/tree/main)
   - [Cyber Terrorism Presentation](https://github.com/joeidowu/Cyber-Terrorism-Presentation)
+  - [Phishing Email Threat Analysis Lab](https://github.com/joeidowu/Phishing-Email-Threat-Analysis-Project)
 
 <h2>💻 Other Projects:</h2>
 
